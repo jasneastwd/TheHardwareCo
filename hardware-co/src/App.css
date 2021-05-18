@@ -1,0 +1,32 @@
+.App {
+	text-align: center;
+}
+
+.header {
+	background-color: #35471f;
+	color: white;
+	padding: 1em;
+}
+
+.about {
+	background-color: #ca803f;
+	text-align: center;
+	padding: 1em;
+}
+
+.products {
+	background-color: #e7e7b8;
+	padding: 1em;
+}
+
+.contact {
+	background-color: #ca803f;
+	text-align: center;
+	padding: 1em;
+}
+
+.footer {
+	padding: 1em;
+	background-color: #35471f;
+	color: white;
+}
